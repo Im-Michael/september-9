@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+}
+
+img {
+  width: 200px;
+  margin: 100px auto 50px;
+  border-radius: 50%;
+}
+
+h3,
+P {
+  margin: 0;
+  padding: 0;
+}
+
+P {
+  font-weight: 100;
+}
